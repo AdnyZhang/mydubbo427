@@ -13,6 +13,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dubbo-api" target="1.8" />
+      <module name="dubbo-api2" target="1.8" />
       <module name="dubbo-consumer" target="1.8" />
       <module name="dubbo-provider" target="1.8" />
       <module name="DubboDemo" target="1.8" />

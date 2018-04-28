@@ -3,7 +3,6 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>com.zhch</groupId>
     <artifactId>DubboDemo</artifactId>
     <packaging>pom</packaging>
@@ -12,7 +11,6 @@
         <module>dubbo-api</module>
         <module>dubbo-consumer</module>
         <module>dubbo-provider</module>
-        <module>dubbo-api</module>
     </modules>
 
     <name>DubboDemo Maven Webapp</name>
@@ -255,7 +253,7 @@
 
     </dependencies>
     <build>
-        <finalName>DubboDemo</finalName>
+        <finalName>com.zhch</finalName>
     </build>
 
 
